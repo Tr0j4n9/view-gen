@@ -1,0 +1,11 @@
+{
+  "name": "view-gen",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Tr0j4n9/view-gen.git",
+  "author": "Tr0j4n9",
+  "license": "GLWT",
+  "dependencies": {
+    "puppeteer": "^1.6.1"
+  }
+}
